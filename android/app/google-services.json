@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130098618272",
+    "project_id": "proptechapp-a642e",
+    "storage_bucket": "proptechapp-a642e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130098618272:android:5e757ec8c620ec4087cec5",
+        "android_client_info": {
+          "package_name": "com.proptech.uass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuAIArulzGC8k9zZG-6F_AHujuK9dHdq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
